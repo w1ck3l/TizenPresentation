@@ -1,0 +1,5 @@
+set sysroot D:\Tizen\platforms\tizen-3.0\wearable\rootstraps\wearable-3.0-emulator.core
+set debug-file-directory D:\Tizen\platforms\tizen-3.0\wearable\rootstraps\wearable-3.0-emulator.core\usr\lib\debug
+set solib-search-path C:\Users\viola\Documents\GLView11Cube\Debug
+dir D:\Tizen\platforms\tizen-3.0\wearable\rootstraps\wearable-3.0-emulator.core\usr\src\debug
+sharedlibrary
